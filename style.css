@@ -24,3 +24,16 @@ html {
   color: var(--black);
   box-sizing: border-box;
 }
+
+header {
+  padding: 1rem 2rem;
+  background: var(--blue);
+  color: var(--off-white);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* main container */
+.container {
+  padding: 1rem 2rem;
+}
